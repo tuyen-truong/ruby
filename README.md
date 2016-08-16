@@ -1,2 +1,1 @@
-# ruby
-About Ruby in Vietnamese
+# About Ruby in Vietnamese
